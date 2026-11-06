@@ -14,3 +14,5 @@ B.A. in Mathematics
 ## Projects
 
 - [**Calve**](https://github.com/aiskakov28/calve) — Jepsen-style correctness testing for Apache Iceberg REST catalogs.
+
+## Research & Publications
