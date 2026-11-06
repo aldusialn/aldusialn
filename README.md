@@ -16,3 +16,6 @@ B.A. in Mathematics
 - [**Calve**](https://github.com/aiskakov28/calve) — Jepsen-style correctness testing for Apache Iceberg REST catalogs.
 
 ## Research & Publications
+
+**Effect of Texture and Motion on 3D Shape Visualization**
+- X-SIG Undergraduate Research Poster
