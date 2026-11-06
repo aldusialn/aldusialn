@@ -12,3 +12,5 @@ B.A. in Mathematics
 **Tools & Testing:** Git, Docker, Linux, GitHub Actions, Playwright, Porcupine, WebAssembly
 
 ## Projects
+
+- **Calve** — Jepsen-style correctness testing for Apache Iceberg REST catalogs.
