@@ -10,3 +10,5 @@ B.A. in Mathematics
 **Frameworks & libraries:** Spring Boot, Node.js, React, Next.js, pandas, NumPy, Numba  
 **Databases & cloud:** PostgreSQL, MySQL, AWS Lambda, Amazon S3, REST APIs  
 **Tools & Testing:** Git, Docker, Linux, GitHub Actions, Playwright, Porcupine, WebAssembly
+
+## Projects
