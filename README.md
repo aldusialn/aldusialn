@@ -18,4 +18,4 @@ B.A. in Mathematics
 ## Research & Publications
 
 **Effect of Texture and Motion on 3D Shape Visualization**
-- X-SIG Undergraduate Research Poster
+- [X-SIG Undergraduate Research Poster (PDF)](https://github.com/aldusialn/aldusialn/blob/main/research/Aldiyar_Alen_Visualization_Poster.pdf)
